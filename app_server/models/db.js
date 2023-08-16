@@ -1,4 +1,4 @@
-var mongoose=require('mongoose')
+/* var mongoose=require('mongoose')
 var dbURI='mongodb://localhost/parnitha';
 mongoose.connect(dbURI);
 mongoose.connection.on('connected',function(){
@@ -10,3 +10,4 @@ mongoose.connection.on('error',function(err){
 mongoose.connection.on('disconnected',function(){
     console.log('mangoose disconnected');
 });
+*/
